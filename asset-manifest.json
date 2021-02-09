@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ea1aad9.chunk.css",
-    "main.js": "/static/js/main.67b27e8a.chunk.js",
-    "main.js.map": "/static/js/main.67b27e8a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.492e48d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.492e48d8.js.map",
-    "static/js/2.9a2bdd32.chunk.js": "/static/js/2.9a2bdd32.chunk.js",
-    "static/js/2.9a2bdd32.chunk.js.map": "/static/js/2.9a2bdd32.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6ea1aad9.chunk.css.map": "/static/css/main.6ea1aad9.chunk.css.map",
-    "static/js/2.9a2bdd32.chunk.js.LICENSE.txt": "/static/js/2.9a2bdd32.chunk.js.LICENSE.txt",
-    "static/media/avatar.d11a3619.jpeg": "/static/media/avatar.d11a3619.jpeg",
-    "static/media/beach.3bbba874.jpg": "/static/media/beach.3bbba874.jpg",
-    "static/media/image.0661b10f.jpeg": "/static/media/image.0661b10f.jpeg",
-    "static/media/logo.c8a83ed8.png": "/static/media/logo.c8a83ed8.png",
-    "static/media/universe.f420b866.jpeg": "/static/media/universe.f420b866.jpeg"
+    "main.css": "/Instagram-Clone/static/css/main.6ea1aad9.chunk.css",
+    "main.js": "/Instagram-Clone/static/js/main.846c63f2.chunk.js",
+    "main.js.map": "/Instagram-Clone/static/js/main.846c63f2.chunk.js.map",
+    "runtime-main.js": "/Instagram-Clone/static/js/runtime-main.301ec9c5.js",
+    "runtime-main.js.map": "/Instagram-Clone/static/js/runtime-main.301ec9c5.js.map",
+    "static/js/2.9a2bdd32.chunk.js": "/Instagram-Clone/static/js/2.9a2bdd32.chunk.js",
+    "static/js/2.9a2bdd32.chunk.js.map": "/Instagram-Clone/static/js/2.9a2bdd32.chunk.js.map",
+    "index.html": "/Instagram-Clone/index.html",
+    "static/css/main.6ea1aad9.chunk.css.map": "/Instagram-Clone/static/css/main.6ea1aad9.chunk.css.map",
+    "static/js/2.9a2bdd32.chunk.js.LICENSE.txt": "/Instagram-Clone/static/js/2.9a2bdd32.chunk.js.LICENSE.txt",
+    "static/media/avatar.d11a3619.jpeg": "/Instagram-Clone/static/media/avatar.d11a3619.jpeg",
+    "static/media/beach.3bbba874.jpg": "/Instagram-Clone/static/media/beach.3bbba874.jpg",
+    "static/media/image.0661b10f.jpeg": "/Instagram-Clone/static/media/image.0661b10f.jpeg",
+    "static/media/logo.c8a83ed8.png": "/Instagram-Clone/static/media/logo.c8a83ed8.png",
+    "static/media/universe.f420b866.jpeg": "/Instagram-Clone/static/media/universe.f420b866.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.492e48d8.js",
+    "static/js/runtime-main.301ec9c5.js",
     "static/js/2.9a2bdd32.chunk.js",
     "static/css/main.6ea1aad9.chunk.css",
-    "static/js/main.67b27e8a.chunk.js"
+    "static/js/main.846c63f2.chunk.js"
   ]
 }
