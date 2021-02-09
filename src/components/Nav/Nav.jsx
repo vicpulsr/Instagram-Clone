@@ -25,6 +25,14 @@ function Nav() {
                 <img src={avatar} />
                 <p>vicpulsr</p>
             </div>
+            <div className="avatar">
+                <img src={avatar} />
+                <p>vicpulsr</p>
+            </div>
+            <div className="avatar">
+                <img src={avatar} />
+                <p>vicpulsr</p>
+            </div>
 
         </div>
     );
