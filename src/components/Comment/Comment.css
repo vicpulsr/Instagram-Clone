@@ -1,0 +1,59 @@
+.add-comment {
+    width: 100%;
+    background: white;
+    color: black;
+    max-height: 400px;
+    right: 87px;
+    top: 255px;
+    z-index: 5;
+    display: flex;
+    border-top: 1px solid #efefef;
+}
+
+.add-comment input {
+    width: 342px;
+    height: 36px;
+    margin-left: 20px;
+    border: none;
+    outline: none;
+}
+
+.add-comment button {
+    color: #0195f6;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+.btn-add {
+    font-weight: bold;
+}
+
+.comment {
+    padding-left: 20px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.comment-header {
+    display: flex;
+    align-items: center 
+}
+
+.comment-header span {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.btn-comment button {
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn-like svg {
+    fill: #ed4956;
+}
