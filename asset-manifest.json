@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Instagram-Clone/static/css/main.6ea1aad9.chunk.css",
-    "main.js": "/Instagram-Clone/static/js/main.846c63f2.chunk.js",
-    "main.js.map": "/Instagram-Clone/static/js/main.846c63f2.chunk.js.map",
+    "main.js": "/Instagram-Clone/static/js/main.c21fcb4a.chunk.js",
+    "main.js.map": "/Instagram-Clone/static/js/main.c21fcb4a.chunk.js.map",
     "runtime-main.js": "/Instagram-Clone/static/js/runtime-main.301ec9c5.js",
     "runtime-main.js.map": "/Instagram-Clone/static/js/runtime-main.301ec9c5.js.map",
     "static/js/2.9a2bdd32.chunk.js": "/Instagram-Clone/static/js/2.9a2bdd32.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.301ec9c5.js",
     "static/js/2.9a2bdd32.chunk.js",
     "static/css/main.6ea1aad9.chunk.css",
-    "static/js/main.846c63f2.chunk.js"
+    "static/js/main.c21fcb4a.chunk.js"
   ]
 }
